@@ -17,7 +17,8 @@ In this challenge machine learning models capable of classifying candidate exopl
 
 ## Models used
 
-* 
-* 
+* SVM
+* Random Forrest
+* Logistic Regression
 
 ## Summary
