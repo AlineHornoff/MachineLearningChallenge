@@ -20,5 +20,14 @@ In this challenge machine learning models capable of classifying candidate exopl
 * SVM
 * Random Forrest
 * Logistic Regression
+* KNN
 
 ## Summary
+
+# Model Accuracy
+* SVM - 0.8823155822702828
+* Random Forrest - 0.89433302527307
+* Logistic Regression - 0.26416173946214
+* KNN - K=9 | 0.828
+
+Based on the model accuracy the random forrest model would appear to be the prefered model to be use.
