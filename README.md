@@ -24,7 +24,7 @@ In this challenge machine learning models capable of classifying candidate exopl
 
 ## Summary
 
-# Model Accuracy
+### Model Accuracy
 * SVM - 0.8823155822702828
 * Random Forrest - 0.89433302527307
 * Logistic Regression - 0.26416173946214
